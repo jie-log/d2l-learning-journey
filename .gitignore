@@ -1,0 +1,26 @@
+# PyCharm IDE 配置文件夹
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+# venv/
+# env/
+# .conda/
+
+# 数据文件（如果很大，不想上传）
+# *.csv
+# *.h5
+# *.pkl
+
+# 日志文件
+*.log
